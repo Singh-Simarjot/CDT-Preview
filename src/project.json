@@ -1,0 +1,957 @@
+ {
+    "id":21,
+    "name":"Carbon Design System",
+    "description":"Carbon is IBM\u2019s open-source design system for products and experiences. With the IBM Design Language as its foundation, the system consists of working code, design tools and resources, human interface guidelines, and a vibrant community of contributors.",
+    "authour":"Vishal",
+    "thumbnail":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_112905_5e57a8010fdf6.png",
+    "created_at":"2020-02-25 04:29:10",
+    "updated_at":"2020-02-27 11:29:09",
+    "navigationId":19,
+    "data":{
+       "headerSection":{
+          "video":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_040334_5e549c96ad115.webm",
+          "videoType":"INTERNAL_STORAGE",
+          "videoThumb":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_040318_5e549c86f16d5.png",
+          "linkTopText":"Read",
+          "linkTitle":"Migrate to v10",
+          "link":"https:\/\/www.google.com\/"
+       },
+       "designingSection":{
+          "image":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_040602_5e549d2a4c33d.png",
+          "linkTopText":"Start",
+          "linkTitle":"Designing",
+          "link":"https:\/\/www.google.com\/"
+       },
+       "developmentSection":{
+          "image":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_040638_5e549d4ebafde.png",
+          "linkTopText":"Start",
+          "linkTitle":"Developing",
+          "link":"https:\/\/www.carbondesignsystem.com\/get-started\/develop\/vanilla\/",
+          "redirectionLink":"https:\/\/www.google.com\/"
+       },
+       "resource":{
+          "otherResourceTitle":"Other resources",
+          "otherResourceDescription":"The component libraries give developers a collection of reusable components for building websites and user interfaces. See a complete list of resources.",
+          "otherResourceComponets":[
+             {
+                "id":"1",
+                "title":"Sketch libraries",
+                "link":"https:\/\/www.carbondesignsystem.com\/resources\/#theme-libraries",
+                "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_061318_5e575dfe76e59.svg"
+             },
+             {
+                "id":"id1",
+                "title":"Carbon Components",
+                "link":"https:\/\/github.com\/carbon-design-system\/carbon\/tree\/master\/packages\/components",
+                "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_042130_5e54a0cac55c7.png"
+             },
+             {
+                "id":"id2",
+                "title":"Carbon Components React",
+                "link":"https:\/\/github.com\/carbon-design-system\/carbon\/tree\/master\/packages\/react",
+                "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_042229_5e54a105507d0.png"
+             },
+             {
+                "id":"id3",
+                "title":"Carbon Components Angular",
+                "link":"https:\/\/github.com\/IBM\/carbon-components-angular",
+                "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_042323_5e54a13bdeba0.png"
+             },
+             {
+                "id":"id4",
+                "title":"Carbon Components Vue",
+                "link":"https:\/\/github.com\/carbon-design-system\/carbon-components-vue",
+                "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_042408_5e54a1683b0a3.png"
+             }
+          ]
+       },
+       "latestTrends":{
+          "latestTrendSectionTitle":"Latest news and articles",
+          "latestTrendSectionArticle":[
+             {
+                "id":"1",
+                "image":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_042540_5e54a1c4cabed.png",
+                "title":"Seven new UX patterns for Carbon",
+                "author":"Jan Child",
+                "publishDate":"1234567890",
+                "link":"https:\/\/medium.com\/carbondesign\/seven-new-ux-patterns-for-carbon-f4a18c20c535"
+             },
+             {
+                "id":"id5",
+                "image":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_042701_5e54a21570b6e.jpeg",
+                "title":"Adobe XD Carbon starter kit announced at Max",
+                "author":"Ashleyb Still",
+                "publishDate":"1234567890",
+                "link":"https:\/\/theblog.adobe.com\/adobe-and-ibm-ix-extend-partnership-to-help-enterprises-design-powerful-and-consistent-customer-experiences\/"
+             },
+             {
+                "id":"id6",
+                "image":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_042837_5e54a275458c3.png",
+                "title":"New in Carbon: October 2019",
+                "author":"Tyler Tate",
+                "publishDate":"1234567890",
+                "link":"https:\/\/medium.com\/carbondesign\/october-release-fadc38b757ad"
+             }
+          ]
+       }
+    },
+    "pages":[
+       {
+          "id":48,
+          "projectId":21,
+          "title":"vue",
+          "authour":"Vishal Parkash",
+          "templateType":"DEFAULT",
+          "saved":0,
+          "btnDisable":0,
+          "created_at":"2020-02-26 11:02:32",
+          "updated_at":"2020-02-27 07:57:29",
+          "data":{
+             "widgets":[
+                {
+                   "id":"_uk7wr997o",
+                   "icon":"fa-file-o",
+                   "label":"External Page Link Grid",
+                   "type":"EXTERNAL_PAGE_LINK_GRID",
+                   "title":"Resources",
+                   "description":"\n",
+                   "internalNavigation":false,
+                   "content":{
+                      "externalLink":[
+                         {
+                            "id":"1",
+                            "label":"Try Vue components with CodeSandbox.",
+                            "url":"https:\/\/codesandbox.io\/s\/5zk452o9jp",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_111232_5e5652a078893.svg"
+                         }
+                      ]
+                   }
+                }
+             ],
+             "tabs":[
+ 
+             ]
+          }
+       },
+       {
+          "id":47,
+          "projectId":21,
+          "title":"Angular",
+          "authour":"Vishal Parkash",
+          "templateType":"DEFAULT",
+          "saved":1,
+          "btnDisable":0,
+          "created_at":"2020-02-26 10:34:56",
+          "updated_at":"2020-02-26 12:44:51",
+          "data":{
+             "widgets":[
+                {
+                   "id":"_ubjkkol4g",
+                   "icon":"fa-file-o",
+                   "label":"External Page Link Grid",
+                   "type":"EXTERNAL_PAGE_LINK_GRID",
+                   "title":"Resources",
+                   "description":"\n",
+                   "internalNavigation":false,
+                   "content":{
+                      "externalLink":[
+                         {
+                            "id":"1",
+                            "label":"Try Angular components with CodeSandbox.",
+                            "url":"https:\/\/codesandbox.io\/s\/0129r494ql",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_103956_5e564afcb5547.svg"
+                         }
+                      ]
+                   }
+                },
+                {
+                   "id":"_0163isz6s",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Carbon Angular library",
+                   "description":"\n",
+                   "internalNavigation":false,
+                   "content":"The <a href=\"https:\/\/angular.carbondesignsystem.com\/?path=\/story\/components-welcome--to-carbon-angular\">library<\/a> provides front-end developers &amp; engineers a collection of reusable Angular components to build websites and user interfaces. Adopting the library enables developers to use consistent markup, styles, and behavior in prototype and production work."
+                },
+                {
+                   "id":"_gmrtxjtzc",
+                   "icon":"fa-codepen",
+                   "type":"CODE_SNIPPETS",
+                   "label":"Code Snippets",
+                   "title":"Install",
+                   "description":"Assuming we\u2019re starting with a new @angular\/cli project:",
+                   "internalNavigation":false,
+                   "content":{
+                      "code":"$ npx @angular\/cli new my-project --style=scss\n$ cd my-project\n$ npm i --save carbon-components-angular carbon-components"
+                   }
+                },
+                {
+                   "id":"_g0vaf5c63",
+                   "icon":"fa-codepen",
+                   "type":"CODE_SNIPPETS",
+                   "label":"Code Snippets",
+                   "title":"Import Info",
+                   "description":"Then we need to include carbon-components in src\/styles.scss:",
+                   "internalNavigation":false,
+                   "content":{
+                      "code":"Then we need to include carbon-components in src\/styles.scss:"
+                   }
+                },
+                {
+                   "id":"_rtwsxkac5",
+                   "icon":"fa-codepen",
+                   "type":"CODE_SNIPPETS",
+                   "label":"Code Snippets",
+                   "title":"Start Info",
+                   "description":"That\u2019s it! Now start the server and start building.",
+                   "internalNavigation":false,
+                   "content":{
+                      "code":"$ npm start"
+                   }
+                },
+                {
+                   "id":"_orzzmahq0",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Using our starter app",
+                   "description":"\n",
+                   "internalNavigation":false,
+                   "content":"<img src=\"https:\/\/www.carbondesignsystem.com\/static\/44856f61219a5c0e5256c1ffa9a40420\/3cbba\/carbon-angular-starter.png\" alt=\"\" style=\"width: 300px;\"><p><br><\/p><p>We recommend using the carbon-angular-starter for bootstrapping applications with Carbon components. Within five minutes your app will be running with the following already configured:<\/p><ul><li>Angular-cli<\/li><li>\nBuild process<\/li><li>\nCode styles and editor configs<\/li><li>\nFolder structure<\/li><li>\nLazy loading<\/li><li>\nRouting<\/li><li>\nService workers<\/li><li>\nTest framework<\/li><\/ul><p>Check out the readme for installation instructions.<\/p>"
+                },
+                {
+                   "id":"_f5qu3ot7c",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Development",
+                   "description":"\n",
+                   "internalNavigation":false,
+                   "content":"Please refer to the contributing guidelines before starting any work."
+                }
+             ],
+             "tabs":[
+ 
+             ]
+          }
+       },
+       {
+          "id":46,
+          "projectId":21,
+          "title":"Tab Page",
+          "authour":"Vishal Parkash",
+          "templateType":"TABS",
+          "saved":1,
+          "btnDisable":0,
+          "created_at":"2020-02-26 09:21:53",
+          "updated_at":"2020-02-26 09:21:56",
+          "data":{
+             "widgets":[
+ 
+             ],
+             "tabs":[
+                {
+                   "projectID":21,
+                   "id":45,
+                   "title":"Vanilla",
+                   "templateType":"DEFAULT",
+                   "saved":1,
+                   "created_at":"2020-02-26 08:17:21",
+                   "updated_at":"2020-02-26 09:19:05"
+                },
+                {
+                   "projectID":21,
+                   "id":44,
+                   "title":"React",
+                   "templateType":"DEFAULT",
+                   "saved":1,
+                   "created_at":"2020-02-26 07:18:37",
+                   "updated_at":"2020-02-26 08:14:48"
+                },
+                {
+                   "projectID":21,
+                   "id":42,
+                   "title":"Test Page",
+                   "templateType":"DEFAULT",
+                   "saved":1,
+                   "created_at":"2020-02-25 12:25:02",
+                   "updated_at":"2020-02-26 03:46:57"
+                }
+             ]
+          }
+       },
+       {
+          "id":45,
+          "projectId":21,
+          "title":"Vanilla",
+          "authour":"Vishal Parkash",
+          "templateType":"DEFAULT",
+          "saved":1,
+          "btnDisable":0,
+          "created_at":"2020-02-26 08:17:21",
+          "updated_at":"2020-02-28 05:40:41",
+          "data":{
+             "widgets":[
+                {
+                   "id":"_djl5ia4om",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Troubleshooting",
+                   "description":"\n",
+                   "internalNavigation":false,
+                   "content":"If you experience any issues while getting set up with Carbon Components, please head over to the <a href=\"https:\/\/github.com\/carbon-design-system\/carbon\">GitHub repo<\/a> for more guidelines and support. Please <a href=\"https:\/\/github.com\/carbon-design-system\/carbon\/issues\">create an issue<\/a> if your issue does not already exist."
+                },
+                {
+                   "id":"_2pas5k36u",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Carbon Vanilla library",
+                   "description":"\n",
+                   "internalNavigation":false,
+                   "content":"The library provides front-end developers &amp; engineers a collection of reusable HTML and SCSS partials to build websites and user interfaces. Adopting the library enables developers to use consistent markup, styles, and behavior in prototype and production work."
+                },
+                {
+                   "id":"_6j3r5yoaz",
+                   "icon":"fa-codepen",
+                   "type":"CODE_SNIPPETS",
+                   "label":"Code Snippets",
+                   "title":"Install",
+                   "description":"Using npm:",
+                   "internalNavigation":false,
+                   "content":{
+                      "code":"$ npm install --save carbon-components"
+                   }
+                },
+                {
+                   "id":"_djzsesjq3",
+                   "icon":"fa-codepen",
+                   "type":"CODE_SNIPPETS",
+                   "label":"Code Snippets",
+                   "title":"If you prefer Yarn",
+                   "description":"Install Through Yarn",
+                   "internalNavigation":false,
+                   "content":{
+                      "code":"\n$ yarn add carbon-components"
+                   }
+                },
+                {
+                   "id":"_g8ucwjunp",
+                   "icon":"fa-codepen",
+                   "type":"CODE_SNIPPETS",
+                   "label":"Code Snippets",
+                   "title":"What\u2019s included",
+                   "description":"\n",
+                   "internalNavigation":false,
+                   "content":{
+                      "code":"carbon-components\/\n\u251c\u2500\u2500 html\n\u251c\u2500\u2500 css\n\u2502   \u251c\u2500\u2500 carbon-components.css\n\u2502   \u2514\u2500\u2500 carbon-components.min.css\n\u251c\u2500\u2500 scripts\n\u2502   \u251c\u2500\u2500 carbon-components.js\n\u2502   \u2514\u2500\u2500 carbon-components.min.js\n\u251c\u2500\u2500 scss"
+                   }
+                },
+                {
+                   "id":"_jjuh9khwl",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"CDN",
+                   "description":"Use unpkg for easy access to our built static files. This is great for prototyping and trying carbon-components without installing anything. See all files from carbon-components available on unpkg CDN.",
+                   "internalNavigation":false,
+                   "content":"<style>\n    .page-table{\n    width:100%;\n    }\n    .page-table thead tr th{\n    padding:1em;\n    background:#fff;\n    }\n    .page-table tbody tr{\n    border-bottom:1px solid #e0e0e0;\n    }\n    .page-table tbody tr td{\n    padding:1em;\n    }\n    .page-table tbody tr td > code{\n    font-weight: 400;\n    line-height: 1rem;\n    letter-spacing: .32px;\n    position: relative;\n    display: inline;\n    padding: 0 .5em;\n    font-size: .75em;\n    bottom: .0625em;\n    border-radius: 4px;\n    background-color: #e0e0e0;\n    color: #161616;\n    }\n<\/style>\n<a href=\"#\"><\/a>\n<table class=\"page-table\">\n    <thead>\n        <tr>\n            <th>Scripts<\/th>\n            <th>URL<\/th>\n\n        <\/tr>\n    <\/thead>\n    <tbody>\n        <tr>\n            <td>CSS<\/td>\n            <td><a href=\"https:\/\/unpkg.com\/carbon-components\/css\/carbon-components.min.css\">https:\/\/unpkg.com\/carbon-components\/css\/carbon-components.min.css<\/a><\/td>\n\n        <\/tr>\n        <tr>\n            <td>\n                ES5\n            <\/td>\n            <td><a href=\"\">https:\/\/unpkg.com\/carbon-components\/scripts\/carbon-components.min.js<\/a><\/td>\n        <\/tr>\n    <\/tbody>\n<\/table>"
+                },
+                {
+                   "id":"_h5ox5zcmn",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"CodePen",
+                   "description":"\n",
+                   "internalNavigation":false,
+                   "content":"We have individual CodePens for all of our components which you can easily fork and play around with."
+                },
+                {
+                   "id":"_83duyjhm5",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"SCSS",
+                   "description":"Using the Carbon Sass files infers usage of the SCSS pre-processor. All Sass files use the *.scss file extension.",
+                   "internalNavigation":false,
+                   "content":"<p>For transpiling Sass code, use node-sass based Sass compilers, for example, WebPack sass-loader or gulp-sass.<br>\n\n<\/p>\n<p>If you\u2019re starting a new project without a boilerplate, you need to know about a few things to get started.<\/p>\n<p>\n\n    <strong>Autoprefixer<\/strong><br>\n    Make sure your build process uses autoprefixer to ensure vendor prefixes are automatically added to your output CSS.<br>\n\n<\/p>\n<p><strong>Default body styles<\/strong><br>\n    CSS is automatically applied to element, which comes from _css\u2014body.scss. These styles are meant to cascade down to everything in to set common styles shared across all components.<\/p>\n<div style=\"background:#333; padding:20px; color:#fff;\">\n    body {\n    @include reset;<br>\n    @include type-style('body-short-01');<br>\n    color: $text-01;<br>\n    background-color: $ui-background;<br>\n    line-height: 1;<\/div>\n<strong>Icons<\/strong><br>\nA lot of components depend on SVG icons from carbon-icons. Read the docs for details on how to use them.\n\nGlobal <p><br><\/p><strong>SCSS variables<\/strong><br>\nThese variables are used to configure which parts of the SCSS get compiled, where each variable controls a SCSS file of the same name. All variables are set to true by default.\n\nFor example:<br>\n<ul>\n    <li>\n\n        When you set $css--reset: true, then the contents of _css\u2014reset.scss will be part of your output CSS.&nbsp;<\/li>\n    <li>When you set $css--reset: false, then nothing gets included from that SCSS file.\n    <\/li>\n    <li>When the variable is not declared at all, then nothing gets included from that SCSS file.\n        The same rules apply to all the following variables:<\/li>\n<\/ul>\n<div style=\"background:#333; padding:20px; color:#fff;\">\n    \/\/ In styles.scss:<br>\n    \/\/ These are the default settings.<br>\n    $css--font-face: true !default;<br>\n    $css--helpers: true !default;<br>\n    $css--body: true !default;<br>\n    $css--use-layer: true !default;<br>\n    $css--reset: true !default;<br>\n    $css--typography: true !default;<br>\n    $css--plex: true !default;<br>\n<\/div>\nThese flags are set for you by default when you @import the styles.scss file. You can override these default settings by redeclaring the variables.<br>\n<p><br><\/p><strong>Importing SCSS files<\/strong><br>\nTo add a component style to your build, simply import the component directly. Importing a component this way will bring in any dependencies that component has as well. The import system removes duplicate dependencies, so shared dependencies between components will not create extra CSS.\n<div style=\"background:#333; padding:20px; color:#fff;\">\n    @import 'node_modules\/carbon-components\/scss\/components\/card\/card';\n<\/div>\n<p><br><\/p>\n<strong>Namespacing<\/strong><br>\nCarbon Components are built to be included individually and not clobber global styles - all class attributes are prefixed by the bx-- moniker. You can specify your own prefix by changing the SCSS variable $prefix."
+                },
+                {
+                   "id":"_p3lpb53xy",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"JavaScript",
+                   "description":"Carbon Component has component JavaScript classes, each of which correspond to a component found in our components page. The first steps to work with component JavaScript classes are the following:",
+                   "internalNavigation":false,
+                   "content":"e1. Getting component JavaScript class reference<p><br><\/p><p>Using a module bundler: We recommend using ECMAScript module along with your module bundler toolchain to do so. Using a module bundler will bring in only the component code your application needs, creating an optimized build for production. Carbon Components ships with a ECMAScript module build as well as UMD build for each component, for use with webpack or Rollup.<br>\nAfter you\u2019ve installed the components through npm, you can grab a component JavaScript class reference by something like this:<\/p><p>Using pre-built bundle: Users can also opt to use the pre-built carbon-components.js file directly, like below. We recommend that most users do not use this file, as it includes components your application may or may not actually be using.<\/p><p>Once you load carbon-components.js via <meta charset=\"utf-8\"><span style=\"color: rgb(22, 22, 22); font-family: &quot;IBM Plex Mono&quot;, Menlo, &quot;DejaVu Sans Mono&quot;, &quot;Bitstream Vera Sans Mono&quot;, Courier, monospace; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.32px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(224, 224, 224); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">&lt;script&gt;&nbsp;tag, you can grab a component JavaScript class reference by something like this:<\/span><script> tag, you can grab a component JavaScript class reference by something like this:<\/script><br><script> tag, you can grab a component JavaScript class reference by something like this:<\/script><\/p><p><meta charset=\"utf-8\"><\/p><div class=\"bx--row\" style=\"box-sizing: border-box; margin-top: var(--space); margin-right: -1rem; margin-bottom: 0px; margin-left: -1rem; padding: 0px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: 400; font-stretch: inherit; font-size: 16px; line-height: inherit; font-family: &quot;IBM Plex Sans VF&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif; vertical-align: initial; display: flex; flex-wrap: wrap; color: rgb(0, 0, 0); letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(244, 244, 244); text-decoration-style: initial; text-decoration-color: initial;\"><p class=\"Markdown-module--paragraph--1xZR9 Markdown-module--paragraph--responsive--103Tj\" style=\"box-sizing: border-box; font-size: 1rem; font-weight: 400; line-height: 1.5rem; letter-spacing: 0px; margin: 0px; padding: 0px 2rem 0px 1rem; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-family: inherit; vertical-align: initial; width: 789.328px;\"><em style=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: italic; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: initial;\">Note: By default, pre-built bundle automatically instantiates all components on the page when<\/em><span>&nbsp;<\/span><code style=\"box-sizing: border-box; margin: 0px; padding: 0px 0.5em; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 400; font-stretch: inherit; font-size: 0.75em; line-height: 1rem; font-family: &quot;IBM Plex Mono&quot;, Menlo, &quot;DejaVu Sans Mono&quot;, &quot;Bitstream Vera Sans Mono&quot;, Courier, monospace; vertical-align: initial; letter-spacing: 0.32px; position: relative; display: inline; bottom: 0.0625em; border-radius: 4px; background-color: rgb(224, 224, 224); color: rgb(22, 22, 22);\">DOMContentLoaded<\/code><span>&nbsp;<\/span><em style=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: italic; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: initial;\">event on the page fires. In case you don\u2019t want that behavior, you can set<\/em><span>&nbsp;<\/span><code style=\"box-sizing: border-box; margin: 0px; padding: 0px 0.5em; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 400; font-stretch: inherit; font-size: 0.75em; line-height: 1rem; font-family: &quot;IBM Plex Mono&quot;, Menlo, &quot;DejaVu Sans Mono&quot;, &quot;Bitstream Vera Sans Mono&quot;, Courier, monospace; vertical-align: initial; letter-spacing: 0.32px; position: relative; display: inline; bottom: 0.0625em; border-radius: 4px; background-color: rgb(224, 224, 224); color: rgb(22, 22, 22);\">CarbonComponents.settings.disableAutoInit = true<\/code><span>&nbsp;<\/span><em style=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: italic; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: initial;\">right after<\/em><span>&nbsp;<\/span><code style=\"box-sizing: border-box; margin: 0px; padding: 0px 0.5em; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 400; font-stretch: inherit; font-size: 0.75em; line-height: 1rem; font-family: &quot;IBM Plex Mono&quot;, Menlo, &quot;DejaVu Sans Mono&quot;, &quot;Bitstream Vera Sans Mono&quot;, Courier, monospace; vertical-align: initial; letter-spacing: 0.32px; position: relative; display: inline; bottom: 0.0625em; border-radius: 4px; background-color: rgb(224, 224, 224); color: rgb(22, 22, 22);\">carbon-components.js<\/code><span>&nbsp;<\/span><em style=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: italic; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: initial;\">is loaded.<\/em><\/p><\/div><div class=\"bx--row\" style=\"box-sizing: border-box; margin-top: var(--space); margin-right: -1rem; margin-bottom: 0px; margin-left: -1rem; padding: 0px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: 400; font-stretch: inherit; font-size: 16px; line-height: inherit; font-family: &quot;IBM Plex Sans VF&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif; vertical-align: initial; display: flex; flex-wrap: wrap; color: rgb(0, 0, 0); letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(244, 244, 244); text-decoration-style: initial; text-decoration-color: initial;\"><p class=\"Markdown-module--paragraph--1xZR9 Markdown-module--paragraph--responsive--103Tj\" style=\"box-sizing: border-box; font-size: 1rem; font-weight: 400; line-height: 1.5rem; letter-spacing: 0px; margin: 0px; padding: 0px 2rem 0px 1rem; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-family: inherit; vertical-align: initial; width: 789.328px;\"><em style=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: italic; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: initial;\">Caveat: Don\u2019t use pre-built<\/em><span>&nbsp;<\/span><code style=\"box-sizing: border-box; margin: 0px; padding: 0px 0.5em; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 400; font-stretch: inherit; font-size: 0.75em; line-height: 1rem; font-family: &quot;IBM Plex Mono&quot;, Menlo, &quot;DejaVu Sans Mono&quot;, &quot;Bitstream Vera Sans Mono&quot;, Courier, monospace; vertical-align: initial; letter-spacing: 0.32px; position: relative; display: inline; bottom: 0.0625em; border-radius: 4px; background-color: rgb(224, 224, 224); color: rgb(22, 22, 22);\">carbon-components.js<\/code><span>&nbsp;<\/span><em style=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: italic; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: initial;\">if you are importing components via ECMAScript module syntax. Doing so will cause Carbon code loaded twice, often competing each other.<\/em><\/p><\/div><p><br><\/p><meta charset=\"utf-8\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans VF&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(244, 244, 244); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">For example, if you have the following HTML for modal:<\/span><p>You can create and get the instance by:<\/p><p><em>Note: The DOM element to instantiate components on typically has a data-componentname attribute, e.g. data-modal for modal.<\/em><\/p><p>Instantiating a component basically does two things:<br>\n\nHooks several event handlers on some DOM elements inside (in above example, ones in modalElement, e.g. close button)<br>\nAllows you to access public methods (found in our components page, e.g. here for modal) via the instance reference (modalInstance.show(), etc. in above example)<\/p><p><strong>Higher-level component instantiation API<\/strong><br>\nWhile .create() API gives you the full control of component instantiation, there is a higher-level API for instantiating components, which is, .init(rootElement). It instantiates all components with data-componentname attribute (e.g. data-modal for modal) inside the given rootElement. If rootElement is omitted, document is used.<\/p><p><em>Note: .init() API does not take care of DOM elements that hasn\u2019t been available at the time it\u2019s called. If the JavaScript framework you are using creates DOM elements dynamically, follow the instructions in the next section instead of using .init().<\/em><\/p><p><strong>Wrapping a component with JavaScript framework of your choice<\/strong><br>\nMany JavaScript frameworks have a mechanism to dynamically create\/destroy DOM elements, for example, upon change in array. This often makes it unclear when the DOM element to instantiate Carbon component on is available, which often depends on the JavaScript framework you use.<\/p><p>Also when DOM elements that Carbon components have been instantiated on are being destroyed, the Carbon component instances should be released so that e.g. there are no zombie event handlers.<\/p><p>The easiest way to hook on the creation\/destroy of DOM elements is defining a \u201cwrapping component\u201d, with the JavaScript framework of your choice. Here\u2019s an example using Web Components\u2019 Custom Elements v1 spec, but the notion of components, along with the lifecycle callbacks, are commonly found in many other JavaScript frameworks.<br>\n<\/p>"
+                },
+                {
+                   "id":"_m1ox7dkzy",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Polyfills for older browsers",
+                   "description":"\n",
+                   "internalNavigation":false,
+                   "content":"<p>carbon-components requires some polyfills for older browsers, in addition to carbon-components.js (or carbon-components.min.js). The latest list of polyfills is <a href=\"https:\/\/github.com\/carbon-design-system\/carbon\/blob\/master\/packages\/components\/demo\/polyfills\/index.js\">maintained in carbon-components\/blog\/master\/packages\/components\/demo\/polyfills\/index.js. You can easily find the polyfills in NPM, etc. The current list is below:<\/a><\/p>\n<ul>\n    <li><a href=\"https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/JavaScript\/Reference\/Global_Objects\/Array\/from\">Array.from()<\/a><\/li>\n    <li>\n        <a href=\"https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/JavaScript\/Reference\/Global_Objects\/Math\/sign\">Math.sign()<\/a><\/li>\n    <li>\n        <a href=\"https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/JavaScript\/Reference\/Global_Objects\/Object\/assign\">Object.assign()<\/a><\/li>\n    <li>\n        <a href=\"https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/API\/CustomEvent\/CustomEvent\">CustomEvent<\/a><\/li>\n    <li>\n        <a href=\"https:\/\/developer.mozilla.org\/es\/docs\/Web\/API\/Element\/closest\">Element#closest()<\/a><\/li>\n    <li>\n        <a href=\"https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/API\/Element\/matches\">Element#matches()<\/a><\/li>\n    <li>\n        <a href=\"https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/API\/Element\/classList#Methods\">2nd arg of Element.classList.toggle()<\/a><\/li>\n<\/ul>"
+                }
+             ],
+             "tabs":[
+ 
+             ]
+          }
+       },
+       {
+          "id":44,
+          "projectId":21,
+          "title":"React",
+          "authour":"Vishal Parkash",
+          "templateType":"DEFAULT",
+          "saved":1,
+          "btnDisable":0,
+          "created_at":"2020-02-26 07:18:37",
+          "updated_at":"2020-02-26 09:21:23",
+          "data":{
+             "widgets":[
+                {
+                   "id":"_cqmemonv8",
+                   "icon":"fa-file-o",
+                   "label":"External Page Link Grid",
+                   "type":"EXTERNAL_PAGE_LINK_GRID",
+                   "title":"Resources",
+                   "description":"\n",
+                   "internalNavigation":false,
+                   "content":{
+                      "externalLink":[
+                         {
+                            "id":"1",
+                            "label":"Try React components with CodeSandbox.",
+                            "url":"https:\/\/codesandbox.io\/s\/x2mjypo6pp",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_072357_5e561d0d85d39.png"
+                         }
+                      ]
+                   }
+                },
+                {
+                   "id":"_0xc47r6bj",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Carbon React library",
+                   "description":"The library provides front-end developers & engineers a collection of reusable React components to build websites and user interfaces. Adopting the library enables developers to use consistent markup, styles, and behavior in prototype and production work.",
+                   "internalNavigation":false,
+                   "content":"<p><br><\/p>"
+                },
+                {
+                   "id":"_x5d638flm",
+                   "icon":"fa-codepen",
+                   "type":"CODE_SNIPPETS",
+                   "label":"Code Snippets",
+                   "title":"Install",
+                   "description":"Using npm:",
+                   "internalNavigation":false,
+                   "content":{
+                      "code":"$ npm install --save carbon-components-react carbon-components carbon-icons\n"
+                   }
+                },
+                {
+                   "id":"_w6v459398",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Getting started",
+                   "description":"\n",
+                   "internalNavigation":true,
+                   "content":"<ol><li>These components require the use of webpack in your project. See our webpack.config.js for an example configuration.<\/li><li>\nComponents do not import any of the styles themselves, use the SCSS or CSS from carbon-components to bring in styling. You can also use the unpkg CDN to bring in the styles wholesale - unpkg.com\/carbon-components\/css\/carbon-components.css aliases the latest CSS file.<\/li><li>\nFor older browsers (e.g. IE11), polyfills listed in the carbon-components-react\/.storybook\/polyfills.js file are required.<\/li><\/ol>"
+                },
+                {
+                   "id":"_swchqxbpc",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Development",
+                   "description":"Please refer to the Contribution Guidelines before starting any work.",
+                   "internalNavigation":false,
+                   "content":"<h4>Using the server<\/h4>\n<p>We recommend the use of React Storybook for developing components.<\/p>\n<p><strong>Start the server:<\/strong><\/p>\n<div style=\"color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0.9); padding:20px;\">$ yarn storybook<\/div>\n<p><br><\/p>\n<ol>\n    <li>Open browser to http:\/\/localhost:9000\/.<\/li>\n    <li>\n        Develop components in their respective folders (\/components or \/internal).<\/li>\n    <li>\n        Write stories for your components in \/.storybook.<\/li>\n<\/ol>\n<h3>List of available components<\/h3>\nView available React Components here. Usage information is available when you click the blue \u201cShow Info\u201d button in the top right corner of the selected component."
+                },
+                {
+                   "id":"_2vr65767h",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Troubleshooting",
+                   "description":"\n",
+                   "internalNavigation":true,
+                   "content":"If you experience any issues while getting set up with Carbon Components React, please head over to the GitHub repo for more guidelines and support. Please create an issue if your issue does not already exist."
+                }
+             ],
+             "tabs":[
+ 
+             ]
+          }
+       },
+       {
+          "id":42,
+          "projectId":21,
+          "title":"Test Page",
+          "authour":"Vishal Parkash",
+          "templateType":"DEFAULT",
+          "saved":1,
+          "btnDisable":0,
+          "created_at":"2020-02-25 12:25:02",
+          "updated_at":"2020-02-26 03:46:57",
+          "data":{
+             "widgets":[
+                {
+                   "id":"id8",
+                   "icon":"fa-file-o",
+                   "label":"External Page Link Grid",
+                   "type":"EXTERNAL_PAGE_LINK_GRID",
+                   "title":"Test1_1",
+                   "description":"Test1_1",
+                   "internalNavigation":false,
+                   "content":{
+                      "externalLink":[
+                         {
+                            "id":"1",
+                            "label":"Test1_1",
+                            "url":"Test1_1",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_122820_5e5512e46e6cc.png"
+                         }
+                      ]
+                   }
+                },
+                {
+                   "id":"id3",
+                   "icon":"fa-file-o",
+                   "label":"External Page Link Grid",
+                   "type":"EXTERNAL_PAGE_LINK_GRID",
+                   "title":"Test2",
+                   "description":"Test2",
+                   "internalNavigation":false,
+                   "content":{
+                      "externalLink":[
+                         {
+                            "id":"1",
+                            "label":"Test2",
+                            "url":"Test2",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_122606_5e55125e27a3d.png"
+                         }
+                      ]
+                   }
+                },
+                {
+                   "id":"id4",
+                   "icon":"fa-file-o",
+                   "label":"External Page Link Grid",
+                   "type":"EXTERNAL_PAGE_LINK_GRID",
+                   "title":"Test3",
+                   "description":"Test3",
+                   "internalNavigation":false,
+                   "content":{
+                      "externalLink":[
+                         {
+                            "id":"1",
+                            "label":"Test3",
+                            "url":"Test3",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_122638_5e55127ec23e9.png"
+                         }
+                      ]
+                   }
+                },
+                {
+                   "id":"id5",
+                   "icon":"fa-file-o",
+                   "label":"External Page Link Grid",
+                   "type":"EXTERNAL_PAGE_LINK_GRID",
+                   "title":"Test4",
+                   "description":"Test4",
+                   "internalNavigation":false,
+                   "content":{
+                      "externalLink":[
+                         {
+                            "id":"1",
+                            "label":"Test4",
+                            "url":"Test4",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_122659_5e551293dd24d.png"
+                         }
+                      ]
+                   }
+                },
+                {
+                   "id":"id6",
+                   "icon":"fa-file-o",
+                   "label":"External Page Link Grid",
+                   "type":"EXTERNAL_PAGE_LINK_GRID",
+                   "title":"Test5",
+                   "description":"Test5",
+                   "internalNavigation":false,
+                   "content":{
+                      "externalLink":[
+                         {
+                            "id":"1",
+                            "label":"Test5",
+                            "url":"Test5",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_122723_5e5512abaee31.png"
+                         }
+                      ]
+                   }
+                },
+                {
+                   "id":"id2",
+                   "icon":"fa-file-o",
+                   "label":"External Page Link Grid",
+                   "type":"EXTERNAL_PAGE_LINK_GRID",
+                   "title":"Test1",
+                   "description":"Test1Test1",
+                   "internalNavigation":false,
+                   "content":{
+                      "externalLink":[
+                         {
+                            "id":"1",
+                            "label":"Test1",
+                            "url":"Test1",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_122531_5e55123b3c183.png"
+                         },
+                         {
+                            "id":"id7",
+                            "label":"Test1_1",
+                            "url":"Test1_1",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_122756_5e5512cc37b18.png"
+                         }
+                      ]
+                   }
+                }
+             ],
+             "tabs":[
+ 
+             ]
+          }
+       },
+       {
+          "id":40,
+          "projectId":21,
+          "title":"Design",
+          "authour":"Vishal Parkash",
+          "templateType":"DEFAULT",
+          "saved":1,
+          "btnDisable":0,
+          "created_at":"2020-02-25 11:40:01",
+          "updated_at":"2020-02-26 07:15:26",
+          "data":{
+             "widgets":[
+                {
+                   "id":"_tgo9askgn",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Get the kit",
+                   "description":"\n",
+                   "internalNavigation":false,
+                   "content":"<p><strong>1. Install Sketch.<\/strong><br>\nTo design with Carbon you must have the most recent version of Sketch installed.<\/p><p><br>\n\n<strong>2. Choose a theme.<\/strong><br>\nThere are four Carbon themes, two light (White and Gray 10) and two dark (Gray 90 and Gray 100). Each theme lives in its own Sketch library. You can subscribe to as many libraries as you\u2019d like.<\/p>"
+                },
+                {
+                   "id":"_4tm9ikbzn",
+                   "icon":"fa-file-o",
+                   "label":"External Page Link Grid",
+                   "type":"EXTERNAL_PAGE_LINK_GRID",
+                   "title":"Choose Now",
+                   "description":"\n",
+                   "internalNavigation":false,
+                   "content":{
+                      "externalLink":[
+                         {
+                            "id":"1",
+                            "label":"Get the White theme",
+                            "url":"sketch:\/\/add-library\/cloud\/JaVzz",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_063500_5e561194835a5.png"
+                         },
+                         {
+                            "id":"id1",
+                            "label":"Get the Gray 10 theme",
+                            "url":"sketch:\/\/add-library\/cloud\/Onwv2",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_063533_5e5611b50404a.png"
+                         },
+                         {
+                            "id":"id2",
+                            "label":"Get the Gray 90 theme",
+                            "url":"sketch:\/\/add-library\/cloud\/eo37p",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_063615_5e5611df94577.png"
+                         },
+                         {
+                            "id":"id3",
+                            "label":"Get the Gray 100 theme",
+                            "url":"sketch:\/\/add-library\/cloud\/d13Ll",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_063648_5e561200c7563.png"
+                         }
+                      ]
+                   }
+                },
+                {
+                   "id":"_rv4wu0e2k",
+                   "icon":"fa-file-o",
+                   "label":"External Page Link Grid",
+                   "type":"EXTERNAL_PAGE_LINK_GRID",
+                   "title":"3. Bring in additional colors and icons.",
+                   "description":"Additional color collections live in the IBM Design Language library. Icons live in two different libraries separated by size.",
+                   "internalNavigation":false,
+                   "content":{
+                      "externalLink":[
+                         {
+                            "id":"1",
+                            "label":"Get the IBM Design Language",
+                            "url":"sketch:\/\/add-library\/cloud\/nwqmk",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_063904_5e561288c1ca5.png"
+                         },
+                         {
+                            "id":"id4",
+                            "label":"Get the IBM Icons (16px, 20px)",
+                            "url":"sketch:\/\/add-library\/cloud\/KW2yr",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_063935_5e5612a73d0bb.png"
+                         },
+                         {
+                            "id":"id5",
+                            "label":"Get the IBM Icons (24px, 32px)",
+                            "url":"sketch:\/\/add-library\/cloud\/2bwkM",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_064008_5e5612c8e4a5a.png"
+                         }
+                      ]
+                   }
+                },
+                {
+                   "id":"_xr4mgpkis",
+                   "icon":"fa-file-o",
+                   "label":"External Page Link Grid",
+                   "type":"EXTERNAL_PAGE_LINK_GRID",
+                   "title":"4. Download the grid templates.",
+                   "description":"Visit the Sketch library page and choose Download Document from the right-side panel.",
+                   "internalNavigation":false,
+                   "content":{
+                      "externalLink":[
+                         {
+                            "id":"1",
+                            "label":"Download the IBM Grid template",
+                            "url":"https:\/\/sketch.cloud\/s\/ngV7z",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_064653_5e56145d692ef.png"
+                         },
+                         {
+                            "id":"id6",
+                            "label":"Download the UI Shell template",
+                            "url":"https:\/\/sketch.cloud\/s\/EjVmA",
+                            "icon":"http:\/\/dev.evantiv.com\/carbon_design\/public\/projects\/Project_064737_5e561489576f2.png"
+                         }
+                      ]
+                   }
+                },
+                {
+                   "id":"_hbjc5giys",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Start designing",
+                   "description":"To get started with Carbon, familiarize yourself with the contents of each library.",
+                   "internalNavigation":false,
+                   "content":"<p><strong>Start with the grid.<\/strong><br>\nAt the top of your screen, navigate to File \u2192 New file from Template and select your grid template. You\u2019ll always be able to find the template here.<\/p><p><br>\n\n<strong>Icons and color swatches.<\/strong><br>\nSymbols from both the IBM Design Language library and the Carbon library are accessible from any Sketch document. Navigate to Insert \u2192 Symbols \u2192 Carbon Design System or IBM Design Language.<\/p><p><br>\n\n<strong>You\u2019re all set.<\/strong><br>\nRefer to the content below for a more detailed breakdown of the kit, or head to Sketch to begin designing.<\/p>"
+                },
+                {
+                   "id":"_ulozx0qg7",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Grid",
+                   "description":"The IBM 2x Grid is the framework for laying out all visual elements in Carbon.",
+                   "internalNavigation":false,
+                   "content":"<img src=\"https:\/\/www.carbondesignsystem.com\/78f2bcb634d36680d173463377316538\/grid-2.gif\" alt=\"\" style=\"width: 300px;\"><p>2x Grid overview<\/p><p>All designs should start with the 2x Grid template. Once you have saved the grid as a template, navigate to File \u2192 New file from Template and select the grid template.<\/p><p>See our layout guidelines for a more detailed walkthrough of the 2x Grid.<\/p><p><br>\n\n<strong>Structure<\/strong><br>\nThe grid template includes templates for all breakpoints along with the necessary formulas to design for custom screen sizes.<\/p><p>To toggle the grid on and off, use Control+G. To toggle the layout guide, use Control+L.<\/p>"
+                },
+                {
+                   "id":"_knek1kdca",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Symbols",
+                   "description":"Carbon components, add-ons, and icons live in the design kit as Sketch symbols.",
+                   "internalNavigation":false,
+                   "content":"<p><img src=\"https:\/\/www.carbondesignsystem.com\/static\/d9fd6a26f1d812b3ea06faf9b500668b\/0b124\/carbon-kit.png\" alt=\"\" style=\"width: 300px;\"><\/p><p><strong>Library menu navigation<\/strong><br>\nThere are two kinds of symbols \u2014 library symbols and document symbols. Library symbols are available in any Sketch document, while document symbols are specific to the document in which they are found.<\/p><p>From the Insert menu, select Symbols \u2192 Carbon Design System to add symbols onto your page.<\/p><p>Carbon symbols are built to be flexible, and designers should not detach symbols from the library. Once a symbol is detached, you will no longer receive updates as they are released.<\/p><p><strong>Structure<\/strong><br>\nSymbols are organized by component; after selecting a component, you\u2019ll see the variations and states of that component.<\/p><ul><li>To add the whole component, select the desired variant and place it on your artboard.<\/li><li>\n\nFor even more configurablility, use the individual building blocks found under the Items folder within the symbol. Be sure your custom design adheres to our design guidelines.<\/li><\/ul>"
+                },
+                {
+                   "id":"_zypedzn5y",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Text styles",
+                   "description":"Text styles are based on typography rules defined by the IBM Design Language.",
+                   "internalNavigation":false,
+                   "content":"<img src=\"https:\/\/www.carbondesignsystem.com\/static\/a7b10d7946cfebaa49024c6c2b6c5bfd\/0b124\/text-styles-1.png\" alt=\"\" style=\"width: 300px;\"><p><strong>Library menu navigation<\/strong><br>\nFrom the main menu select Insert \u2192 Text Styles \u2192 Carbon Design System to insert a Carbon type token text style.<br>\n\nText styles within components are carefully considered. We do not recommend detaching the symbol to change default styles.<\/p><p><strong>Structure<\/strong><br>\nCarbon text styles in Sketch are organized similarly to symbols.<\/p><ul><li>The first text style level displays theme options (i.e., white theme).<\/li><li>\nThe second level shows the Carbon type tokens (i.e., body-long-01).<\/li><li>\nThe third level selects the type color, which is labeled with a Carbon color token name.<\/li><\/ul>"
+                },
+                {
+                   "id":"_z9md8zw7d",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Layer styles",
+                   "description":"Layer styles are color selections for any shape in Sketch.",
+                   "internalNavigation":false,
+                   "content":"<img src=\"https:\/\/www.carbondesignsystem.com\/static\/6aead45d8d7dfd9aab15360eb947b199\/392b1\/layer-style-1.png\" alt=\"\" style=\"width: 300px;\"><p><br><\/p><p>Use predetermined overrides when possible<\/p><p><strong>Library menu navigation<\/strong><br>\nColor in Carbon is carefully considered, and we discourage custom layer styles.<\/p><p>The first layer is the theme selection (i.e., 01 White theme). The second layer is core Carbon color tokens (i.e., field-01) for the selected them. The interaction state tokens are nested in a third layer under \u201cstate.\u201d<br><\/p>"
+                },
+                {
+                   "id":"_xh86mo7r2",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Info",
+                   "description":"If you\u2019re brand new to Sketch, they offer some great tutorials and help docs.",
+                   "internalNavigation":false,
+                   "content":"<h4>Updates<\/h4>\nWe make small adjustments and bug fixes to the kit on a regular basis. When we make a change to any of the libraries, you will be notified via a red pop-up in the top right corner of the Sketch window.<br>\n\nThe updates are opt-in, however we recommend you keep your kit as up to date as possible. Once a change is accepted, you will not be able to revert to the previous version.<br>\n\n<h4>Migration<\/h4>\nIf you\u2019re using an older version of Carbon, check out the v10 migration docs when you\u2019re ready to make the switch.<br>\n\n<h4>Support<\/h4>\nCan\u2019t find an answer to your question? Open up an issue on GitHub."
+                }
+             ],
+             "tabs":[
+ 
+             ]
+          }
+       },
+       {
+          "id":39,
+          "projectId":21,
+          "title":"About Carbon",
+          "authour":"Vishal Parkash",
+          "templateType":"DEFAULT",
+          "saved":1,
+          "btnDisable":0,
+          "created_at":"2020-02-25 10:14:50",
+          "updated_at":"2020-02-26 04:45:39",
+          "data":{
+             "widgets":[
+                {
+                   "id":"id4",
+                   "icon":"fa-file-text-o",
+                   "type":"TEXT_BLOCK",
+                   "label":"Text Block",
+                   "title":"Introduction",
+                   "description":"\n",
+                   "internalNavigation":false,
+                   "content":"<style>\n.g-principle{margin:0px 0px 60px 0px;}\n<\/style>\n<div class=\"g-principle\">\n       <h3>Guiding principles<\/h3> \n       <p><strong>Carbon is open<\/strong>. The design system is a distributed effort, guided by the principles of the open-source movement. Carbon\u2019s users are also its makers, and everyone is encouraged to contribute.<\/p>\n\n       <p><strong>Carbon is inclusive<\/strong>. It\u2019s designed and built to be accessible to all, regardless of ability or situation.<\/p> \n\n       <p><strong>Carbon is modular and flexible<\/strong>. The system\u2019s modularity ensures maximum flexibility in execution. Its components are designed to work seamlessly with each other, in whichever combination suits the needs of the user.<\/p>\n\n       <p><strong>Carbon puts the user first<\/strong>. Using rigorous research into users\u2019 needs and desires, Carbon is laser-focused on real people. <\/p>\n\n       <p><strong>Carbon builds consistency<\/strong>. Based on the IBM Design Language, every element and component of Carbon was designed from the ground up to work elegantly together to ensure consistent, cohesive user experiences.<\/p>\n\n<\/div>\n<div class=\"g-principle\">\n        <h3>Governance<\/h3> \n        <p>The Carbon team encourages adoption through guidance and training, community development, maintenance, and support. The system is primarily maintained by a core team and governed by an executive board of design advisors.<\/p> \n<\/div>\n<div class=\"g-principle\">\n        <h4>Adoption<\/h4> \n        <p><strong>We conduct training classes and offer certifications<\/strong>. These cover introductions to Carbon and participating in this community. Each program is piloted internally and available upon release externally. We teach at conferences, bootcamp labs, and wherever else we\u2019re needed.<\/p>\n\n        <p><strong>We engage the community<\/strong>. We strive to be one of the world\u2019s best design systems and we\u2019re always open to feedback. We communicate with you about Carbon\u2019s state and roadmap through GitHub support, blog posts, and Twitter.<\/p>\n\n        <p><strong>Contributed components and patterns include a list of maintainers<\/strong>. The Carbon team triages and supports maintenance requests that do not have a maintainer. Unmaintained patterns will be demoted to Experimental if the Carbon team decides not to maintain them.<\/p>\n\n        <p><strong>We provide support for users of the design system<\/strong>. The Carbon team engages with users primarily through GitHub. A member of the Carbon team responds to all issues and pull requests.<\/p>    \n<\/div>\n<div class=\"g-principle\">\n        <h4>Assets<\/h4> \n        <p><strong>We maintain a set of Sketch libraries containing Carbon components and patterns<\/strong>. There is a funnel of contribution for rigorous Sketch symbols before they are made available in Sketch libraries.<\/p>\n\n        <p><strong>Carbon supports multiple code implementations<\/strong>. These reflect the production-level design libraries. The frameworks are listed below with their primary maintainers:<\/p>\n\n\n        <ul>\n            <li>React: Carbon Core team<\/li>\n            <li>CSS\/Vanilla: Carbon Core team<\/li>\n            <li>Angular: Community maintained<\/li>\n            <li>Vue: Community maintained<\/li>\n        <\/ul>\n\n        <strong>Design patterns are harvested from products built with Carbon<\/strong>. These become part of the design system. Teams can can use these well-defined patterns in their work and contribute patterns back to the system.\n<\/div>\n<div class=\"g-principle\">\n        <h4>Contribution acceptance<\/h4> \n        <p>We bring experimental components and patterns into the design library as quickly as possible with little barrier to entry.<\/p>\n\n        <p><strong>status means duplicate patterns may exist<\/strong>. Accompanying guidance may be minimal. Maintainers are not yet identified or committed. Inclusion in the shared library raises awareness and acts as a live audit so people can benefit from the collaboration.<\/p>\n\n        <p><strong>Beta status means there are few or no duplicate patterns<\/strong>. Guidance on the site is reasonably complete and useful. Maintainers are identified and committed to ongoing support. The intention is to go to production with only minor changes based on user feedback.<\/p>      \n\n        <p><strong>Production status there are no duplicate patterns<\/strong>. These offer high-quality guidance. Design symbols and code components are available. Maintainers know to monitor support channels for their patterns.<\/p>    \n\n<\/div>\n<div class=\"g-principle\">\n        <h4>Certificate of Originality<\/h4> \n        <p>This information is only relevant for IBM teams building with Carbon.<\/p>\n<\/div>\n<div class=\"g-principle\">\n        <h5>Contribution acceptance<\/h5> \n        <ul>\n            <li>COO record ID: 95607540<\/li>\n            <li>COO reference number: COO20190204<\/li>\n            <li>Name of IBM material (with version number): IBM Design System [Version 10, Release n\/a, Modification n\/a]<\/li>\n            <li>Last release date: March 31, 2019<\/li>\n            <li>Name of Product\/Program manager or author of material: Matt Rosno\/US\/IBM\/li&gt;\n        <\/li><\/ul>\n<\/div>\n<div class=\"g-principle\">\n        <h5>Carbon v9.x<\/h5> \n        <ul>\n            <li>COO number of IBM material (if any): AUS720180239<\/li>\n            <li>Name of IBM material (with version number): IBM Design System [Version 9, Release n\/a, Modification n\/a]<\/li>\n            <li>Last release date: June 4, 2018<\/li>\n            <li>Last release date: March 31, 2019<\/li>\n            <li>Name of Product\/Program manager or author of material: Matt Rosno\/US\/IBM<\/li>\n        <\/ul>\n<\/div>"
+                }
+             ],
+             "tabs":[
+ 
+             ]
+          }
+       }
+    ],
+    "navigation":[
+       {
+          "projectID":21,
+          "id":42,
+          "title":"Test Page",
+          "templateType":"DEFAULT",
+          "saved":1,
+          "created_at":"2020-02-25 12:25:02",
+          "updated_at":"2020-02-26 03:46:57",
+          "dummyid":"_wat7w2p4o",
+          "subtitle":"empty",
+          "pageId":42,
+          "children":[
+ 
+          ],
+          "linkType":"DEFAULT"
+       },
+       {
+          "projectID":21,
+          "id":39,
+          "title":"About Carbon",
+          "templateType":"DEFAULT",
+          "saved":1,
+          "created_at":"2020-02-25 10:14:50",
+          "updated_at":"2020-02-26 04:45:39",
+          "dummyid":"_gy0gspi6p",
+          "subtitle":"empty",
+          "pageId":39,
+          "children":[
+ 
+          ],
+          "linkType":"DEFAULT",
+          "expanded":true
+       },
+       {
+          "projectID":21,
+          "id":46,
+          "title":"Tab Page",
+          "templateType":"TABS",
+          "saved":1,
+          "created_at":"2020-02-26 09:21:53",
+          "updated_at":"2020-02-26 09:21:56",
+          "dummyid":"_skakr59dv",
+          "subtitle":"empty",
+          "pageId":46,
+          "children":[
+ 
+          ],
+          "linkType":"TABS"
+       },
+       {
+          "projectID":21,
+          "id":40,
+          "title":"Design",
+          "templateType":"DEFAULT",
+          "saved":1,
+          "created_at":"2020-02-25 11:40:01",
+          "updated_at":"2020-02-26 07:15:26",
+          "dummyid":"_nlbui5xqf",
+          "subtitle":"empty",
+          "pageId":40,
+          "children":[
+             {
+                "projectID":21,
+                "id":44,
+                "title":"React",
+                "templateType":"DEFAULT",
+                "saved":1,
+                "created_at":"2020-02-26 07:18:37",
+                "updated_at":"2020-02-26 09:21:23",
+                "dummyid":"_vmoey4cl2",
+                "subtitle":{
+                   "key":null,
+                   "ref":null,
+                   "props":{
+                      "item":"[Circular ~.data.3.children.0]",
+                      "parentid":"_vmoey4cl2",
+                      "dummyId":"_vmoey4cl2"
+                   },
+                   "_owner":null,
+                   "_store":{
+ 
+                   }
+                },
+                "pageId":44,
+                "children":[
+ 
+                ],
+                "linkType":"DEFAULT",
+                "parentid":"_nlbui5xqf"
+             }
+          ],
+          "linkType":"DEFAULT",
+          "expanded":true
+       },
+       {
+          "projectID":21,
+          "id":45,
+          "title":"Vanilla",
+          "templateType":"DEFAULT",
+          "saved":1,
+          "created_at":"2020-02-26 08:17:21",
+          "updated_at":"2020-02-26 12:12:57",
+          "dummyid":"_awxtkum6n",
+          "subtitle":"empty",
+          "pageId":45,
+          "children":[
+ 
+          ],
+          "linkType":"DEFAULT"
+       }
+    ]
+ }

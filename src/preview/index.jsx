@@ -11,6 +11,7 @@ import BuildingBlock from "./templates/buildingblocks/buildingBlocks";
 import Loader from "../components/loader/loader";
 import { previewProject } from "./../services/projects";
 import { toast } from "react-toastify";
+ 
 
 class Preview extends Component {
   static contextType = ProjectsContext;
@@ -27,6 +28,9 @@ class Preview extends Component {
   // componentDidMount() {}
 
   componentDidMount() {
+
+    // fetch('../project.json').then((response) =>  console.log(response))
+    
    
       this.getProjectDetail(21);
     
