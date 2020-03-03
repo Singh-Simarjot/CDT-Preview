@@ -13,11 +13,14 @@ import Preview from "./preview/index";
  
 import "react-toastify/dist/ReactToastify.css";
 
+
 function App() {
+ 
+  console.log()
   return (
     <React.Fragment>
       <Header />
-      <Preview />
+      <Preview   />
     </React.Fragment>
   );
 }

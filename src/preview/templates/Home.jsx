@@ -30,7 +30,7 @@ class Home extends Component {
   render() {
     const {   description  ,selectedProject } = this.props;
     
-    const homeData = selectedProject.data;
+    const homeData = selectedProject;
     // const homeData = selectedProjectID.data;
     return (
       <React.Fragment>

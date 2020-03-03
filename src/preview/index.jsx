@@ -5,13 +5,10 @@ import Footer from "./templates/component/footer";
 import Home from "./templates/Home";
 import { Switch, Route } from "react-router-dom";
 import DefaultTemplate from "./templates/default";
-import ProjectsContext from "../context/projectsContext";
-import Gloassary from "./templates/gloassary/gloassaryTemplate";
-import BuildingBlock from "./templates/buildingblocks/buildingBlocks";
+import ProjectsContext from "../context/projectsContext"; 
 import Loader from "../components/loader/loader";
-import { previewProject } from "./../services/projects";
-import { toast } from "react-toastify";
  
+import Data from "../../src/project.json";
 
 class Preview extends Component {
   static contextType = ProjectsContext;
@@ -22,33 +19,23 @@ class Preview extends Component {
     selectedPage: [],
     subPage: {
       data: { widgets: [] }
-    }
-  };
+    },
+    dataNotFound:false
 
-  // componentDidMount() {}
+  };
 
   componentDidMount() {
-
-    // fetch('../project.json').then((response) =>  console.log(response))
+    const selectedProject = Data;
     
    
-      this.getProjectDetail(21);
-    
+   if(Object.entries(Data).length === 0 ) {
+    this.setState({ selectedProject, isLoading: true, dataNotFound:true });
+   }
+   else{
+     this.setState({ selectedProject, isLoading: true, dataNotFound:false });
+   }
   }
 
-  getProjectDetail = async id => {
-    try {
-      await previewProject(id).then(response => {
-        if (response.status === 200) {
-          const selectedProject = response.data;
-          this.setState({ selectedProject, isLoading: true });
-        }
-      });
-    } catch (err) {
-      toast.error("Getting Some Issue, Please try agin later!");
-      
-    }
-  };
   handleSelectPage = page => {
     const pages = this.state.selectedProject.pages;
 
@@ -71,7 +58,8 @@ class Preview extends Component {
   render() {
     const { selectedProject, selectedPage, subPage } = this.state;
 
-    if (this.state.isLoading) {
+    if (this.state.isLoading) { 
+      if(!this.state.dataNotFound && selectedProject.data !== undefined ){
       return (
         <div className="home-wrap">
           <span className="homepage-dots"></span>
@@ -89,7 +77,7 @@ class Preview extends Component {
                     {...props}
                     title={selectedProject.title}
                     description={selectedProject.description}
-                    selectedProject={selectedProject}
+                    selectedProject={selectedProject.data}
                   />
                 )}
               />
@@ -122,7 +110,8 @@ class Preview extends Component {
             <Footer />
           </div>
         </div>
-      );
+      )}
+      else{ return "Data Not Found" }
     } else {
       return <Loader />;
     }

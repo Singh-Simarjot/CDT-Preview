@@ -4,7 +4,5 @@ fetch("/theme/data.json")
   })
   .then(function(data) {
     console.log(data);
-    corporateStyle="hell";
-    
-    
+   localStorage.setItem("data",data)
   });
